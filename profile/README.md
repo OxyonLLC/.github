@@ -1,4 +1,4 @@
-<p align="center"><img src="https://oxyon.io/assets/logo-mark@2x.png" alt="Oxyon" width="96"></p>
+<p align="center"><img src="oxyon-mark.png" alt="Oxyon" width="96"></p>
 
 <h3 align="center">Proof you can check, built on XL1.</h3>
 
